@@ -1,0 +1,7 @@
+{
+  "name": "Luckea",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
